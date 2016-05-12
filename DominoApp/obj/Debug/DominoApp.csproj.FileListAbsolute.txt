@@ -1,0 +1,6 @@
+c:\users\th3suspect\documents\visual studio 2015\Projects\DominoApp\DominoApp\bin\Debug\DominoApp.exe.config
+c:\users\th3suspect\documents\visual studio 2015\Projects\DominoApp\DominoApp\obj\Debug\DominoApp.csprojResolveAssemblyReference.cache
+c:\users\th3suspect\documents\visual studio 2015\Projects\DominoApp\DominoApp\bin\Debug\DominoApp.exe
+c:\users\th3suspect\documents\visual studio 2015\Projects\DominoApp\DominoApp\bin\Debug\DominoApp.pdb
+c:\users\th3suspect\documents\visual studio 2015\Projects\DominoApp\DominoApp\obj\Debug\DominoApp.exe
+c:\users\th3suspect\documents\visual studio 2015\Projects\DominoApp\DominoApp\obj\Debug\DominoApp.pdb
